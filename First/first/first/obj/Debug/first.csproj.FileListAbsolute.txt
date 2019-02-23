@@ -1,0 +1,6 @@
+C:\Users\LabUser32\Desktop\VaheMin\First\first\first\bin\Debug\first.exe.config
+C:\Users\LabUser32\Desktop\VaheMin\First\first\first\bin\Debug\first.exe
+C:\Users\LabUser32\Desktop\VaheMin\First\first\first\bin\Debug\first.pdb
+C:\Users\LabUser32\Desktop\VaheMin\First\first\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\LabUser32\Desktop\VaheMin\First\first\first\obj\Debug\first.exe
+C:\Users\LabUser32\Desktop\VaheMin\First\first\first\obj\Debug\first.pdb
