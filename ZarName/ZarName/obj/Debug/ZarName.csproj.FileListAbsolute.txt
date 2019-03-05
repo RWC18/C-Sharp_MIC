@@ -1,0 +1,7 @@
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\bin\Debug\ZarName.exe.config
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\bin\Debug\ZarName.exe
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\bin\Debug\ZarName.pdb
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\obj\Debug\ZarName.csprojResolveAssemblyReference.cache
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\obj\Debug\ZarName.csproj.CoreCompileInputs.cache
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\obj\Debug\ZarName.exe
+C:\Users\LabUser32\Desktop\VaheMin\ZarName\ZarName\obj\Debug\ZarName.pdb

@@ -1,0 +1,6 @@
+C:\Users\LabUser32\Desktop\VaheMin\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
+C:\Users\LabUser32\Desktop\VaheMin\Lesson6\Lesson6\bin\Debug\Lesson6.exe.config
+C:\Users\LabUser32\Desktop\VaheMin\Lesson6\Lesson6\bin\Debug\Lesson6.exe
+C:\Users\LabUser32\Desktop\VaheMin\Lesson6\Lesson6\bin\Debug\Lesson6.pdb
+C:\Users\LabUser32\Desktop\VaheMin\Lesson6\Lesson6\obj\Debug\Lesson6.exe
+C:\Users\LabUser32\Desktop\VaheMin\Lesson6\Lesson6\obj\Debug\Lesson6.pdb
